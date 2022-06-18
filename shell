@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "this is hell cmd" >> testing.txt
+ll
+date
+cal
